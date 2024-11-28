@@ -5,11 +5,7 @@ import time
 
 # Lista de frases pré-definidas
 frases = [
-    "Bom dia, como posso ajudar?",
-    "Obrigado pela sua mensagem. Já estou verificando!",
-    "Por favor, envie mais detalhes sobre o problema.",
-    "Tenha um excelente dia!",
-    "Desculpe pelo transtorno. Vamos resolver isso rapidamente."
+    
 ]
 
 # Função para simular a digitação do texto selecionado
